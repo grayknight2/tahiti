@@ -13,7 +13,7 @@ dependencies:
   flutter_svg: ^0.17.1
   audio_recorder:
     git:
-      url: git://github.com/chimple/audio_recorder.git
+      url: git://github.com/grayknight2/audio_recorder.git
   audioplayers: ^0.14.0
   path_provider: ^1.6.0
   scoped_model: ^0.3.0
