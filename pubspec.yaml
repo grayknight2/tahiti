@@ -10,7 +10,7 @@ dependencies:
 
 # For information on the generic Dart part of this file, see the
 # following page: https://www.dartlang.org/tools/pub/pubspec
-  flutter_svg: ^0.10.3
+  flutter_svg: ^0.17.1
   audio_recorder:
     git:
       url: git://github.com/chimple/audio_recorder.git
@@ -21,7 +21,7 @@ dependencies:
   video_player: ^0.7.2
   uuid: ^2.0.1
   tuple: ^1.0.2
-  nima: ^1.0.1
+  nima: ^1.0.5
   json_annotation: ^2.0.0
   shared_preferences: ^0.4.3
 dev_dependencies:
