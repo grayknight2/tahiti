@@ -1,2 +1,2 @@
 # tahiti
-A painting application using Flutter
+A painting application using Flutter. Uptaded to AndroidX
