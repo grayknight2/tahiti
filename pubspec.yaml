@@ -14,7 +14,7 @@ dependencies:
   audio_recorder:
     git:
       url: git://github.com/chimple/audio_recorder.git
-  audioplayers: ^0.5.2
+  audioplayers: ^0.14.0
   path_provider: ^0.5.0
   scoped_model: ^0.3.0
   image_picker: ^0.4.10
